@@ -1,0 +1,9 @@
+:root {
+  --dark-blue-color: #21243d;
+  --white-color: #fff;
+  --pink-color: #ff6464;
+  --light-blue-color: #00a8cc;
+}
+.container {
+  padding: 0 15px;
+}
